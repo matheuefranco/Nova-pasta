@@ -23,7 +23,7 @@ class Program
         Biblioteca.gerarVetor(vetor);
         Biblioteca.mostrarVetor(vetor);
         media = mediaValoresVetor(vetor);
-        Console.WriteLine($"Media dos valores do vetor: {media:F2}");
+        Console.WriteLine($"Media dos valores do vetor de inteiros: {media:F2}");
     }
 
 
