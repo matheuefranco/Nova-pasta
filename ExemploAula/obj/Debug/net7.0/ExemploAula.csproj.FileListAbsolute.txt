@@ -1,0 +1,14 @@
+D:\mef\IF\Linguagem I\Semana 1 - Vetor - Funcoes\Nova pasta\ExemploAula\bin\Debug\net7.0\ExemploAula.exe
+D:\mef\IF\Linguagem I\Semana 1 - Vetor - Funcoes\Nova pasta\ExemploAula\bin\Debug\net7.0\ExemploAula.deps.json
+D:\mef\IF\Linguagem I\Semana 1 - Vetor - Funcoes\Nova pasta\ExemploAula\bin\Debug\net7.0\ExemploAula.runtimeconfig.json
+D:\mef\IF\Linguagem I\Semana 1 - Vetor - Funcoes\Nova pasta\ExemploAula\bin\Debug\net7.0\ExemploAula.dll
+D:\mef\IF\Linguagem I\Semana 1 - Vetor - Funcoes\Nova pasta\ExemploAula\bin\Debug\net7.0\ExemploAula.pdb
+D:\mef\IF\Linguagem I\Semana 1 - Vetor - Funcoes\Nova pasta\ExemploAula\obj\Debug\net7.0\ExemploAula.GeneratedMSBuildEditorConfig.editorconfig
+D:\mef\IF\Linguagem I\Semana 1 - Vetor - Funcoes\Nova pasta\ExemploAula\obj\Debug\net7.0\ExemploAula.AssemblyInfoInputs.cache
+D:\mef\IF\Linguagem I\Semana 1 - Vetor - Funcoes\Nova pasta\ExemploAula\obj\Debug\net7.0\ExemploAula.AssemblyInfo.cs
+D:\mef\IF\Linguagem I\Semana 1 - Vetor - Funcoes\Nova pasta\ExemploAula\obj\Debug\net7.0\ExemploAula.csproj.CoreCompileInputs.cache
+D:\mef\IF\Linguagem I\Semana 1 - Vetor - Funcoes\Nova pasta\ExemploAula\obj\Debug\net7.0\ExemploAula.dll
+D:\mef\IF\Linguagem I\Semana 1 - Vetor - Funcoes\Nova pasta\ExemploAula\obj\Debug\net7.0\refint\ExemploAula.dll
+D:\mef\IF\Linguagem I\Semana 1 - Vetor - Funcoes\Nova pasta\ExemploAula\obj\Debug\net7.0\ExemploAula.pdb
+D:\mef\IF\Linguagem I\Semana 1 - Vetor - Funcoes\Nova pasta\ExemploAula\obj\Debug\net7.0\ExemploAula.genruntimeconfig.cache
+D:\mef\IF\Linguagem I\Semana 1 - Vetor - Funcoes\Nova pasta\ExemploAula\obj\Debug\net7.0\ref\ExemploAula.dll
